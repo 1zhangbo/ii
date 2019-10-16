@@ -1,0 +1,7 @@
+{
+    "student": [
+    { "name" : "zhangbo" ,  "sex" : "男" , "xhao" : "17" , "age" : "19" }, 
+    { "name" : "zhuhui" , "sex" : "男" , "xhao" : "21" , "age" : "19"},
+   {  "name" : "xutao" , "sex" : "男" , "xhao" : "09" , "age ":" 20"}
+    ]
+}
