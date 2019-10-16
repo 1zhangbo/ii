@@ -1,0 +1,5 @@
+var sites = [
+    { "name":"runoob" , "url":"www.runoob.com" }, 
+    { "name":"google" , "url":"www.google.com" }, 
+    { "name":"微博" , "url":"www.weibo.com" }
+];
