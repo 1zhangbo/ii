@@ -1,0 +1,8 @@
+{
+    "student": [
+    { "name":"zhangbo" , "url":"www.runoob.com" }, 
+    { "xhao":"17" , "url":"www.google.com" }, 
+    { "age":"19" , "url":"www.weibo.com" },
+    {  "sex":"男"  , "url":"www.qq.com"}
+    ]
+}
